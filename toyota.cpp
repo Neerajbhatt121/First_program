@@ -19,7 +19,7 @@ void login(){
        if(pass == 1234){
         cout<<">>>>>>>>>>>Correct password<<<<<<<<<<";
        }else{
-        cout<<">>>>>>>>>>>Wrong user id password<<<<<<<<<<";
+        cout<<">>>>>>>>>>>Wrong use dddr id password<<<<<<<<<<";
        }
     }
 
